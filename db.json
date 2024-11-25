@@ -1,11 +1,4 @@
 {
   "id": "cart",
-  "items": [
-    {
-      "title": "Django Unchained",
-      "price": 48.92,
-      "quantity": 1,
-      "poster": "https://image.tmdb.org/t/p/original/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg"
-    }
-  ]
+  "items": []
 }
